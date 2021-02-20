@@ -1,4 +1,9 @@
-# opensourcetest
+# Open Source Test!
 
+Hello Everyone! We have these people here:
 
-hello everyone!!
+* Nikhil Gupta
+* Praveen Kumar
+* Prathamesh Kunjeer
+* Sanchit
+* Ranjith
